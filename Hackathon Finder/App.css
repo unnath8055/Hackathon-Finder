@@ -1,0 +1,29 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.hackathon-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.hackathon-card {
+  background-color: #f9f9f9;
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  width: 300px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.hackathon-card h2 {
+  margin-top: 0;
+}
+
+.hackathon-card a {
+  text-decoration: none;
+  color: #007BFF;
+}

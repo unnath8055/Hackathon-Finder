@@ -1,0 +1,4 @@
+Search: Allow users to search for hackathons based on name, date, or location.
+User Authentication: Let users sign up and save their favorite hackathons.
+Event Calendar: Display hackathons on a calendar for easy viewing.
+Filter by Category: Filter events by topics like "AI", "Blockchain", "Web Development", etc.
